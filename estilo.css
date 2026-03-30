@@ -1,0 +1,40 @@
+
+body{background: #E0FFF0
+;}
+
+#principal{
+    width:600px;
+    height: 350px;
+    margin: auto;
+    margin-top: 200px;
+    background: #ADD8E6;
+    text-align: center;
+    padding: 20px;
+    padding-top: 50px;
+    border-radius: 12px;
+}
+
+input{
+    width: 50%;
+    height: 20px;
+    
+}
+
+h1{background:;}
+
+label {
+  font-weight: bold;
+  font-size: 16px;
+  color:#333;
+ 
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+button{
+
+        width: 100px;
+        border-radius: 12px;
+        background: #20B2AA;
+
+}
